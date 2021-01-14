@@ -7,7 +7,7 @@
 
 #### 演示视频
 <a href="https://www.bilibili.com/video/BV1HN411d7AT" target="_blank">
-<img src="https://github.com/CNSTJiatongLee/jetson-nano-autopilot/blob/master/cover.png"/></a>
+<img src="https://github.com/CNSTJiatongLee/jetson-nano-autopilot/blob/master/cover.png" alt="Demo" /></a>
 
 #### 主要功能：
 1. 基于Jupyter Notebook搭建的数据样本采集标注平台。
